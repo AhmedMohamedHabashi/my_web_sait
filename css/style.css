@@ -231,7 +231,7 @@ section {
     background: transparent;
     border: .2rem solid var(--main-bg-color);
     border-radius: 50%;
-    font-style: 20px;
+    font-size: 20px;
     color: var(--main-bg-color);
     z-index: 1;
     overflow: hidden;
